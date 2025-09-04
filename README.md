@@ -97,7 +97,7 @@ This is the most recommended and fastest way to use it.Assume you know the prefi
 [+] GPU [23.4s] Total: 4605345792   | Speed: 206.47  MKeys/s | Jumps: 183   | PubKey: 0226...e9ea559d8c04f007cedddc9d ^C
 ```
 
-# Get the public key
+# After obtaining the public key
 ```
 ./rckangaroo -dp 16 -range 70 -start 200000000000000000 -pubkey 0290e6900a58d33393bc1097b5aed31f2e4e7cbd3e5466af958665bc0121248483
 ********************************************************************************
@@ -146,7 +146,7 @@ DOGE: DTszb9cPALbG9ESNJMFJt4ECqWGRCgucky
 
 TRX: TAHUmjyzg7B3Nndv264zWYUhQ9HUmX4Xu4
 ```
-# ⚠️ # Disclaimer
+# ⚠️ Disclaimer
 1. Disclaimer: This tool is intended to help developers gain a deeper understanding of its workings and is for mutual learning and research purposes only.
 2. Please understand the associated risks before using this tool. Decrypting someone else's private key is unethical and illegal. Please comply with local laws and regulations! Do not use this tool for any illegal purposes; you will be solely responsible for the consequences.
 3. The developer is not responsible for any indirect or direct financial losses or legal liabilities resulting from the use of this tool.
