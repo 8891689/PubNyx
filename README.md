@@ -1,5 +1,32 @@
 # PubNyx
 
+<!--  -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Utility-HASH160%20to%20Public%20Key%20Cracker-red?style=for-the-badge" alt="HASH160 to Public Key Cracker">
+  <img src="https://img.shields.io/badge/Target-Bitcoin%20(BTC)%20Puzzles-orange?logo=bitcoin" alt="Bitcoin Puzzles">
+</p>
+
+<!--  (Performance & Modes) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-GPU%20(CUDA)-brightgreen?logo=nvidia" alt="GPU CUDA Mode">
+  <img src="https://img.shields.io/badge/Mode-CPU%20(Multithreaded)-blue" alt="CPU Multithreaded Mode">
+  <img src="https://img.shields.io/badge/Algorithm-Optimized%20ECC-purple" alt="Optimized ECC Algorithms">
+</p>
+
+<!--  -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?logo=cplusplus" alt="C++">
+  <img src="https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Interface-CLI%20Tool-black" alt="Command Line Interface Tool">
+</p>
+
+<!--  -->
+<p align="center">
+  <a href="https://github.com/8891689/PubNyx/commits/main"><img src="https://img.shields.io/github/last-commit/8891689/PubNyx" alt="Last Commit"></a>
+  <a href="https://github.com/8891689/PubNyx/stargazers"><img src="https://img.shields.io/github/stars/8891689/PubNyx?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/8891689/PubNyx#sponsorship"><img src="https://img.shields.io/badge/Sponsor-❤️-red" alt="Sponsor Project"></a>
+</p>
+
 This is a high-performance public key (HASH160) cracking program aimed at brute force enumeration of public keys to find targets HASH160 Matching public key. It supports CPU and GPU Two operating modes to meet different performance requirements.(Hunt for Bitcoin public keys.)
 
 # Main functions How It Works
